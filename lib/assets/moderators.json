@@ -1,0 +1,209 @@
+[
+    {
+        "id": 1,
+        "voted": false,
+        "vorname": "Max",
+        "name": "Mustermann",
+        "spitzname": "Maxi",
+        "show": "Morning Show",
+        "picture": "lib/assets/images/moderators/max.png"
+    },
+    {
+        "id": 2,
+        "voted": false,
+        "vorname": "Anna",
+        "name": "Schmidt",
+        "spitzname": "Anni",
+        "show": "Morning Show",
+        "picture": "lib/assets/images/moderators/anna.png"
+    },
+    {
+        "id": 3,
+        "voted": false,
+        "vorname": "Lukas",
+        "name": "Müller",
+        "spitzname": "Luki",
+        "show": "Drive Time",
+        "picture": "lib/assets/images/moderators/lukas.png"
+    },
+    {
+        "id": 4,
+        "voted": false,
+        "vorname": "Sophie",
+        "name": "Meier",
+        "spitzname": "Soso",
+        "show": "Evening Vibes",
+        "picture": "lib/assets/images/moderators/sophie.png"
+    },
+    {
+        "id": 5,
+        "voted": false,
+        "vorname": "Jonas",
+        "name": "Fischer",
+        "spitzname": "Jojo",
+        "show": "Morning Show",
+        "picture": "lib/assets/images/moderators/jonas.png"
+    },
+    {
+        "id": 6,
+        "voted": false,
+        "vorname": "Laura",
+        "name": "Weber",
+        "spitzname": "Lala",
+        "show": "Drive Time",
+        "picture": "lib/assets/images/moderators/laura.png"
+    },
+    {
+        "id": 7,
+        "voted": false,
+        "vorname": "Paul",
+        "name": "Becker",
+        "spitzname": "Pauli",
+        "show": "Late Night Beats",
+        "picture": "lib/assets/images/moderators/paul.png"
+    },
+    {
+        "id": 8,
+        "voted": false,
+        "vorname": "Mia",
+        "name": "Hoffmann",
+        "spitzname": "Mimi",
+        "show": "Morning Show",
+        "picture": "lib/assets/images/moderators/mia.png"
+    },
+    {
+        "id": 9,
+        "voted": false,
+        "vorname": "Tim",
+        "name": "Schulz",
+        "spitzname": "Timi",
+        "show": "Drive Time",
+        "picture": "lib/assets/images/moderators/tim.png"
+    },
+    {
+        "id": 10,
+        "voted": false,
+        "vorname": "Lena",
+        "name": "Wagner",
+        "spitzname": "Lenchen",
+        "show": "Evening Vibes",
+        "picture": "lib/assets/images/moderators/lena.png"
+    },
+    {
+        "id": 11,
+        "voted": false,
+        "vorname": "Felix",
+        "name": "Klein",
+        "spitzname": "Feli",
+        "show": "Late Night Beats",
+        "picture": "lib/assets/images/moderators/felix.png"
+    },
+    {
+        "id": 12,
+        "voted": false,
+        "vorname": "Lea",
+        "name": "Schneider",
+        "spitzname": "Lili",
+        "show": "Morning Show",
+        "picture": "lib/assets/images/moderators/lea.png"
+    },
+    {
+        "id": 13,
+        "voted": false,
+        "vorname": "Niklas",
+        "name": "Wolf",
+        "spitzname": "Niki",
+        "show": "Evening Vibes",
+        "picture": "lib/assets/images/moderators/niklas.png"
+    },
+    {
+        "id": 14,
+        "voted": false,
+        "vorname": "Julia",
+        "name": "Neumann",
+        "spitzname": "Juli",
+        "show": "Drive Time",
+        "picture": "lib/assets/images/moderators/julia.png"
+    },
+    {
+        "id": 15,
+        "voted": false,
+        "vorname": "Tobias",
+        "name": "Braun",
+        "spitzname": "Tobi",
+        "show": "Morning Show",
+        "picture": "lib/assets/images/moderators/tobias.png"
+    },
+    {
+        "id": 16,
+        "voted": false,
+        "vorname": "Sarah",
+        "name": "Richter",
+        "spitzname": "Sari",
+        "show": "Evening Vibes",
+        "picture": "lib/assets/images/moderators/sarah.png"
+    },
+    {
+        "id": 17,
+        "voted": false,
+        "vorname": "Philipp",
+        "name": "Krüger",
+        "spitzname": "Pippo",
+        "show": "Late Night Beats",
+        "picture": "lib/assets/images/moderators/philipp.png"
+    },
+    {
+        "id": 18,
+        "voted": false,
+        "vorname": "Clara",
+        "name": "Hofmann",
+        "spitzname": "Clari",
+        "show": "Morning Show",
+        "picture": "lib/assets/images/moderators/clara.png"
+    },
+    {
+        "id": 19,
+        "voted": false,
+        "vorname": "Sebastian",
+        "name": "Hartmann",
+        "spitzname": "Basti",
+        "show": "Drive Time",
+        "picture": "lib/assets/images/moderators/sebastian.png"
+    },
+    {
+        "id": 20,
+        "voted": false,
+        "vorname": "Marie",
+        "name": "Werner",
+        "spitzname": "Mia",
+        "show": "Late Night Beats",
+        "picture": "lib/assets/images/moderators/marie.png"
+    },
+    {
+        "id": 21,
+        "voted": false,
+        "vorname": "David",
+        "name": "Krause",
+        "spitzname": "Davi",
+        "show": "Drive Time",
+        "picture": "lib/assets/images/moderators/david.png"
+    },
+    {
+        "id": 22,
+        "voted": false,
+        "vorname": "Lara",
+        "name": "Lehmann",
+        "spitzname": "Lari",
+        "show": "Evening Vibes",
+        "picture": "lib/assets/images/moderators/lara.png"
+    },
+    {
+        "id": 23,
+        "voted": false,
+        "vorname": "Jan",
+        "name": "Köhler",
+        "spitzname": "Jani",
+        "show": "Morning Show",
+        "picture": "lib/assets/images/moderators/jan.png"
+    }
+]
